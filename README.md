@@ -13,5 +13,5 @@ Tables:
   <li>Address. Type: text; May content as 'Street: street_name, apartament: apartamen_number, flat: flat_number'.</li>
 </ol>
 
-<p style="text-align: right">Database author is Mirakilov Davlatbek!<br>
+<p align="right">Database author is Mirakilov Davlatbek!<br>
 Created with Microsoft Office Access.</p>
