@@ -1,5 +1,5 @@
 # DATABASE
-DATABASE of entities!<br><br>
+Database of entities!<br><br>
 Tables:
  <ol>Entities contact.<br>
   Fields:
