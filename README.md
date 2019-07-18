@@ -1,7 +1,7 @@
 # DATABASE
 DATABASE of entities!
 Tables:
- <ol> Contact <br>
+ <ol>Entities contact
   <li>ID. Type: key-field.</li>
   <li>Name. Type: text.</li>
   <li>E-mail. Type: text; May content as 'name@mcompany.com'.</li>
